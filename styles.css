@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Arial', sans-serif;
+    background-color: pink;
+}
+
+#nao {
+    transition: all 0.5s ease;
+}
+
+#sim, #nao {
+    width: 120px;
+    height: 40px;
+    font-size: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
